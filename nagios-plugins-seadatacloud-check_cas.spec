@@ -14,6 +14,7 @@ Requires: perl
 Requires: perl-Getopt-Long
 Requires: perl-Net-SSLeay
 Requires: perl-Pod-Usage
+Requires: nagios-plugins-perl
 AutoReqProv: no
 
 %description
